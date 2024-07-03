@@ -1668,3 +1668,11 @@ textarea.form-input::-webkit-resizer {
     max-width: 700px
   }
 }
+
+.service-item {
+  align-items: center;
+}
+
+.service-icon-box {
+  margin-top: 0;
+}
