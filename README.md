@@ -51,9 +51,7 @@ Although I believe tools evolve, here are the technologies I currently work with
 
 ## 🌐 Connect With Me
 
-* **Portfolio:** [himanshugrover.dev](#) *(replace with your actual link)*
-* **LinkedIn:** [linkedin.com/in/himanshugrover](#)
-* **Twitter/X:** [@himanshugrover](#) *(if applicable)*
+* **LinkedIn:** [https://www.linkedin.com/in/hello-himanshu-grover/](#)
 
 ---
 
